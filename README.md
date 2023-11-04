@@ -10,7 +10,11 @@ Your first task I give to thee:
 Find the javascript file in this repository!
 
 Your task of number two:
-Open [website][this tab] anew
+Open [this tab][the tab in question] anew
+Perhaps leave it a friendly review?
 
+The task of the third:
+Look at this funny bird!
+![A parakeet sitting directly behind a glass of water, its face distorted in the glass to be elongated. The bird's appearance in the glass makes it look like it is a liquid contained in the glass!](birdJuice.jpg "bird juice")
 
-[this tab]: https://addons.mozilla.org/en-US/firefox/addon/javascript/
+[the tab in question]: https://addons.mozilla.org/en-US/firefox/addon/javascript/
